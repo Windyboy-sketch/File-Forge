@@ -1,0 +1,10 @@
+using FileConverter.Core.Models;
+
+namespace FileConverter.Core.Interfaces;
+
+public interface ISettingsService
+{
+    AppSettings Current { get; }
+    Task LoadAsync(CancellationToken cancellationToken = default);
+    Task SaveAsync(CancellationToken cancellationToken = default);
+}

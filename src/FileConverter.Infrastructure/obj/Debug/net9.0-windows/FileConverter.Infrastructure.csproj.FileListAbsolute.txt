@@ -1,0 +1,15 @@
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\bin\Debug\net9.0-windows\FileConverter.Infrastructure.deps.json
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\bin\Debug\net9.0-windows\FileConverter.Infrastructure.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\bin\Debug\net9.0-windows\FileConverter.Infrastructure.pdb
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\bin\Debug\net9.0-windows\FileConverter.Core.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\bin\Debug\net9.0-windows\FileConverter.Core.pdb
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.AssemblyInfo.cs
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConv.33DDC040.Up2Date
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\refint\FileConverter.Infrastructure.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\FileConverter.Infrastructure.pdb
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Infrastructure\obj\Debug\net9.0-windows\ref\FileConverter.Infrastructure.dll

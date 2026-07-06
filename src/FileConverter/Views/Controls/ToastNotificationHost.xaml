@@ -1,0 +1,38 @@
+<UserControl x:Class="FileConverter.Views.Controls.ToastNotificationHost"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             IsHitTestVisible="False">
+    <UserControl.Resources>
+        <Storyboard x:Key="FadeInStoryboard">
+            <DoubleAnimation Storyboard.TargetName="ToastBorder"
+                             Storyboard.TargetProperty="Opacity"
+                             From="0" To="1"
+                             Duration="{StaticResource NormalDuration}" />
+        </Storyboard>
+        <Storyboard x:Key="FadeOutStoryboard">
+            <DoubleAnimation Storyboard.TargetName="ToastBorder"
+                             Storyboard.TargetProperty="Opacity"
+                             From="1" To="0"
+                             Duration="{StaticResource FastDuration}" />
+        </Storyboard>
+    </UserControl.Resources>
+
+    <Border x:Name="ToastBorder"
+            Visibility="Collapsed"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Bottom"
+            Margin="0,0,24,24"
+            Background="{StaticResource SurfaceElevatedBrush}"
+            BorderBrush="{StaticResource BorderBrush}"
+            BorderThickness="1"
+            CornerRadius="{StaticResource CardCornerRadius}"
+            Padding="16,12"
+            MaxWidth="360">
+        <Border.Effect>
+            <DropShadowEffect BlurRadius="20" ShadowDepth="2" Opacity="0.35" Color="{StaticResource ShadowColor}" />
+        </Border.Effect>
+        <TextBlock Text="{Binding Message}"
+                   TextWrapping="Wrap"
+                   Foreground="{StaticResource TextPrimaryBrush}" />
+    </Border>
+</UserControl>

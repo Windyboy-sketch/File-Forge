@@ -1,0 +1,11 @@
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\bin\Debug\net9.0\FileConverter.Core.deps.json
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\bin\Debug\net9.0\FileConverter.Core.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\bin\Debug\net9.0\FileConverter.Core.pdb
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.AssemblyInfoInputs.cache
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.AssemblyInfo.cs
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.csproj.CoreCompileInputs.cache
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\refint\FileConverter.Core.dll
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\FileConverter.Core.pdb
+C:\Users\poopy\Desktop\CODE\File Converter\github-source\src\FileConverter.Core\obj\Debug\net9.0\ref\FileConverter.Core.dll

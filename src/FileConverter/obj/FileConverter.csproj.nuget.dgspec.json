@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
+        "projectName": "FileConverter.Core",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
+        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poopy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
+        "projectName": "FileConverter.Infrastructure",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poopy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "FFMpegCore": {
+              "target": "Package",
+              "version": "[5.4.0, )"
+            },
+            "FFMpegCore.Extensions.Downloader": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "PDFtoImage": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "PdfSharpCore": {
+              "target": "Package",
+              "version": "[1.3.67, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj",
+        "projectName": "FileConverter",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj",
+        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\poopy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
+              },
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.4.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
