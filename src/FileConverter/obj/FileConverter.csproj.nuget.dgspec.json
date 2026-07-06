@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj": {}
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter\\FileConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
         "projectName": "FileConverter.Core",
-        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
-        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\obj\\",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj",
+        "packagesPath": "C:\\Users\\poopy\\AppData\\Local\\Temp\\cursor-sandbox-cache\\4121517f075ae0ec7cb0c71c17d60c09\\nuget",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
         "projectName": "FileConverter.Infrastructure",
-        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\poopy\\AppData\\Local\\Temp\\cursor-sandbox-cache\\4121517f075ae0ec7cb0c71c17d60c09\\nuget",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
-                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj": {
+    "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter\\FileConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj",
+        "projectUniqueName": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter\\FileConverter.csproj",
         "projectName": "FileConverter",
-        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\FileConverter.csproj",
-        "packagesPath": "C:\\Users\\poopy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter\\obj\\",
+        "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter\\FileConverter.csproj",
+        "packagesPath": "C:\\Users\\poopy\\AppData\\Local\\Temp\\cursor-sandbox-cache\\4121517f075ae0ec7cb0c71c17d60c09\\nuget",
+        "outputPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -196,11 +196,11 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
-                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Core\\FileConverter.Core.csproj"
               },
-              "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Forge Source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj"
+              "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\poopy\\Desktop\\CODE\\File Converter\\github-source\\src\\FileConverter.Infrastructure\\FileConverter.Infrastructure.csproj"
               }
             }
           }
